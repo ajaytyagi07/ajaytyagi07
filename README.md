@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ajay Tyagi</h1>
 <h3 align="center">A passionate CSE student from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaytyagi07&label=Profile%20views&color=0e75b6&style=flat" alt="ajaytyagi07" /> </p>
 
