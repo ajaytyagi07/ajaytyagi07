@@ -23,10 +23,10 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajaytyagi07&show_icons=true&locale=en&layout=compact" alt="ajaytyagi07" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajaytyagi07&theme=radical&show_icons=true&locale=en&layout=compact" alt="ajaytyagi07" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajaytyagi07&show_icons=true&locale=en" alt="ajaytyagi07" /></p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajaytyagi07&theme=radical)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajaytyagi07&" alt="ajaytyagi07" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ajaytyagi07&theme=radical)](https://git.io/streak-stats)
 
 ![snake gif](https://github.com/ajaytyagi07/ajaytyagi07/blob/output/github-contribution-grid-snake.gif)
