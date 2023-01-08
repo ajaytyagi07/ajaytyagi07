@@ -29,4 +29,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ajaytyagi07&theme=radical)](https://git.io/streak-stats)
 
-![snake gif](https://github.com/ajaytyagi07/ajaytyagi07/blob/output/github-contribution-grid-snake.gif)
+
