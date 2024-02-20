@@ -24,6 +24,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajaytyagi07&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ajaytyagi07&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ajaytyagi07&theme=radical)](https://git.io/streak-stats)
 
 
