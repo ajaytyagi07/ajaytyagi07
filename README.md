@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaytyagi07&label=Profile%20views&color=0e75b6&style=flat" alt="ajaytyagi07" /> </p>
 
 - 🌱 I’m currently learning **DSA and Full Stack Development**
-
+- 💬 Ask me about Java, DSA, Web Development
 - 📫 How to reach me **https://www.linkedin.com/in/ajay-tyagi-1b1302228**
 
 <h3 align="left">Connect with me:</h3>
