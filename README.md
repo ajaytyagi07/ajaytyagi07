@@ -1,6 +1,6 @@
 ![logo](https://github.com/ajaytyagi07/ajaytyagi07/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Ajay Tyagi</h1>
-<h3 align="center">A passionate CSE student from India</h3>
+<h3 align="center">FullStack Web Developer </h3>
 
 
 
